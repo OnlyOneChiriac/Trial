@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When you initialize a repository you create a repository for all the existing files of a project. This allows you to be able to access the files through git and allows for proper saving of files as you work.
